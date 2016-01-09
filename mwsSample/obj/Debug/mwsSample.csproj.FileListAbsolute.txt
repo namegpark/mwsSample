@@ -1,0 +1,11 @@
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\bin\Debug\mwsSample.exe.config
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\bin\Debug\mwsSample.exe
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\bin\Debug\mwsSample.pdb
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\bin\Debug\mwsLib.dll
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\bin\Debug\mwsLib.pdb
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\obj\Debug\mwsSample.csprojResolveAssemblyReference.cache
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\obj\Debug\mwsSample.Form1.resources
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\obj\Debug\mwsSample.Properties.Resources.resources
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\obj\Debug\mwsSample.csproj.GenerateResource.Cache
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\obj\Debug\mwsSample.exe
+C:\Users\ParkGeon\Desktop\mwsSample\mwsSample\obj\Debug\mwsSample.pdb
